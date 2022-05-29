@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KomodoFinal.Repository/1.0.0": {
+        "runtime": {
+          "KomodoFinal.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KomodoFinal.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

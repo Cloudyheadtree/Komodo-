@@ -1,0 +1,12 @@
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\bin\Debug\net6.0\KomoGreeting.Repository.deps.json
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\bin\Debug\net6.0\KomoGreeting.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\bin\Debug\net6.0\KomoGreeting.Repository.pdb
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.csproj.AssemblyReference.cache
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.AssemblyInfoInputs.cache
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.AssemblyInfo.cs
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.csproj.CoreCompileInputs.cache
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\refint\KomoGreeting.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\KomoGreeting.Repository.pdb
+C:\Users\17653\Documents\CsharpFinal\KomoGreeting.Repository\obj\Debug\net6.0\ref\KomoGreeting.Repository.dll

@@ -1,0 +1,12 @@
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\bin\Debug\net6.0\KomodoFinal.Repository.deps.json
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\bin\Debug\net6.0\KomodoFinal.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\bin\Debug\net6.0\KomodoFinal.Repository.pdb
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.csproj.AssemblyReference.cache
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.AssemblyInfoInputs.cache
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.AssemblyInfo.cs
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.csproj.CoreCompileInputs.cache
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\refint\KomodoFinal.Repository.dll
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\KomodoFinal.Repository.pdb
+C:\Users\17653\Documents\CsharpFinal\KomodoFinal.Repository\obj\Debug\net6.0\ref\KomodoFinal.Repository.dll

@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "KomodoFinal.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KomodoFinal.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KomodoFinal.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KomodoFinal.Repository/1.0.0": {
+      "type": "project",
+      "path": "../KomodoFinal.Repository/KomodoFinal.Repository.csproj",
+      "msbuildProject": "../KomodoFinal.Repository/KomodoFinal.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "KomodoFinal.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\17653\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\17653\\Documents\\CsharpFinal\\KomodoFinal.ConsoleApp\\KomodoFinal.ConsoleApp.csproj",
+      "projectName": "KomodoFinal.ConsoleApp",
+      "projectPath": "C:\\Users\\17653\\Documents\\CsharpFinal\\KomodoFinal.ConsoleApp\\KomodoFinal.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\17653\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\17653\\Documents\\CsharpFinal\\KomodoFinal.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\17653\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\17653\\Documents\\CsharpFinal\\KomodoFinal.Repository\\KomodoFinal.Repository.csproj": {
+              "projectPath": "C:\\Users\\17653\\Documents\\CsharpFinal\\KomodoFinal.Repository\\KomodoFinal.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KomoGreeting.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "KomoGreeting.Repository": "1.0.0"
+        },
+        "runtime": {
+          "KomoGreeting.ConsoleApp.dll": {}
+        }
+      },
+      "KomoGreeting.Repository/1.0.0": {
+        "runtime": {
+          "KomoGreeting.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KomoGreeting.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KomoGreeting.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
